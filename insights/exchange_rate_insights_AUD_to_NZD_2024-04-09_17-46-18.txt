@@ -1,0 +1,7 @@
+Exchange Rate Analysis Insights:
+
+Best Rate: 1.094635 on 2024-04-08
+Worst Rate: 1.072039 on 2024-03-10
+Average Rate over the period: 1.0859
+Highest volatility observed on: 2024-03-23 with a standard deviation of 0.0044
+The overall trend in the exchange rate is increasing

@@ -1,0 +1,77 @@
+2024-04-09 17:47:11,026 - __main__ - INFO - Fetching exchange rates from 2024-03-10 to 2024-04-09
+2024-04-09 17:47:11,027 - __main__ - INFO - Fetching exchange rates from 2024-03-10 to 2024-04-09 using the 'historical' endpoint
+2024-04-09 17:47:11,029 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-10
+2024-04-09 17:47:11,030 - __main__ - INFO - Using cached data for 2024-03-10.
+2024-04-09 17:47:11,031 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-11
+2024-04-09 17:47:11,032 - __main__ - INFO - Using cached data for 2024-03-11.
+2024-04-09 17:47:11,040 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-12
+2024-04-09 17:47:11,041 - __main__ - INFO - Using cached data for 2024-03-12.
+2024-04-09 17:47:11,042 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-13
+2024-04-09 17:47:11,044 - __main__ - INFO - Using cached data for 2024-03-13.
+2024-04-09 17:47:11,045 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-14
+2024-04-09 17:47:11,047 - __main__ - INFO - Using cached data for 2024-03-14.
+2024-04-09 17:47:11,048 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-15
+2024-04-09 17:47:11,049 - __main__ - INFO - Using cached data for 2024-03-15.
+2024-04-09 17:47:11,050 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-16
+2024-04-09 17:47:11,050 - __main__ - INFO - Using cached data for 2024-03-16.
+2024-04-09 17:47:11,051 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-17
+2024-04-09 17:47:11,052 - __main__ - INFO - Using cached data for 2024-03-17.
+2024-04-09 17:47:11,052 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-18
+2024-04-09 17:47:11,053 - __main__ - INFO - Using cached data for 2024-03-18.
+2024-04-09 17:47:11,053 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-19
+2024-04-09 17:47:11,055 - __main__ - INFO - Using cached data for 2024-03-19.
+2024-04-09 17:47:11,055 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-20
+2024-04-09 17:47:11,056 - __main__ - INFO - Using cached data for 2024-03-20.
+2024-04-09 17:47:11,056 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-21
+2024-04-09 17:47:11,056 - __main__ - INFO - Using cached data for 2024-03-21.
+2024-04-09 17:47:11,057 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-22
+2024-04-09 17:47:11,057 - __main__ - INFO - Using cached data for 2024-03-22.
+2024-04-09 17:47:11,058 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-23
+2024-04-09 17:47:11,058 - __main__ - INFO - Using cached data for 2024-03-23.
+2024-04-09 17:47:11,059 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-24
+2024-04-09 17:47:11,059 - __main__ - INFO - Using cached data for 2024-03-24.
+2024-04-09 17:47:11,060 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-25
+2024-04-09 17:47:11,060 - __main__ - INFO - Using cached data for 2024-03-25.
+2024-04-09 17:47:11,061 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-26
+2024-04-09 17:47:11,061 - __main__ - INFO - Using cached data for 2024-03-26.
+2024-04-09 17:47:11,063 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-27
+2024-04-09 17:47:11,064 - __main__ - INFO - Using cached data for 2024-03-27.
+2024-04-09 17:47:11,066 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-28
+2024-04-09 17:47:11,066 - __main__ - INFO - Using cached data for 2024-03-28.
+2024-04-09 17:47:11,067 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-29
+2024-04-09 17:47:11,068 - __main__ - INFO - Using cached data for 2024-03-29.
+2024-04-09 17:47:11,069 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-30
+2024-04-09 17:47:11,070 - __main__ - INFO - Using cached data for 2024-03-30.
+2024-04-09 17:47:11,070 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-03-31
+2024-04-09 17:47:11,071 - __main__ - INFO - Using cached data for 2024-03-31.
+2024-04-09 17:47:11,071 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-01
+2024-04-09 17:47:11,071 - __main__ - INFO - Using cached data for 2024-04-01.
+2024-04-09 17:47:11,072 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-02
+2024-04-09 17:47:11,072 - __main__ - INFO - Using cached data for 2024-04-02.
+2024-04-09 17:47:11,073 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-03
+2024-04-09 17:47:11,074 - __main__ - INFO - Using cached data for 2024-04-03.
+2024-04-09 17:47:11,075 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-04
+2024-04-09 17:47:11,075 - __main__ - INFO - Using cached data for 2024-04-04.
+2024-04-09 17:47:11,076 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-05
+2024-04-09 17:47:11,076 - __main__ - INFO - Using cached data for 2024-04-05.
+2024-04-09 17:47:11,077 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-06
+2024-04-09 17:47:11,078 - __main__ - INFO - Using cached data for 2024-04-06.
+2024-04-09 17:47:11,079 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-07
+2024-04-09 17:47:11,083 - __main__ - INFO - Using cached data for 2024-04-07.
+2024-04-09 17:47:11,097 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-08
+2024-04-09 17:47:11,099 - __main__ - INFO - Using cached data for 2024-04-08.
+2024-04-09 17:47:11,102 - __main__ - INFO - File cache hit for key: AUD_NZD_2024-04-09
+2024-04-09 17:47:11,105 - __main__ - INFO - Using cached data for 2024-04-09.
+2024-04-09 17:47:11,115 - __main__ - INFO - Successfully fetched and processed exchange rates
+2024-04-09 17:47:11,116 - __main__ - INFO - Preprocessing the fetched data
+2024-04-09 17:47:11,117 - __main__ - INFO - Starting data preprocessing
+2024-04-09 17:47:11,121 - __main__ - INFO - Data preprocessing completed successfully
+2024-04-09 17:47:11,122 - __main__ - INFO - Analyzing the preprocessed data
+2024-04-09 17:47:11,123 - __main__ - INFO - Starting data analysis
+2024-04-09 17:47:11,127 - __main__ - INFO - Date with highest volatility observed on: 2024-03-23
+2024-04-09 17:47:11,132 - __main__ - INFO - The overall trend in the exchange rate is increasing
+2024-04-09 17:47:13,153 - __main__ - INFO - Chart saved successfully in exchange_rate_chart_AUD_to_NZD_2024-04-09_17-47-11.png.
+2024-04-09 17:47:13,162 - __main__ - INFO - Data analysis and enhanced visualization completed successfully
+2024-04-09 17:47:13,167 - __main__ - INFO - Date with highest volatility observed on: 2024-03-23
+2024-04-09 17:47:13,170 - __main__ - INFO - The overall trend in the exchange rate is increasing
+2024-04-09 17:47:13,176 - __main__ - INFO - Insights generated and saved successfully in exchange_rate_insights_AUD_to_NZD_2024-04-09_17-47-13.txt.

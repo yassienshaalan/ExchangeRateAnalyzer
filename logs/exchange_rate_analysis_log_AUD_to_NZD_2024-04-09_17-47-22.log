@@ -1,0 +1,30 @@
+2024-04-09 17:47:22,559 - exchange_rate_analyzer - INFO - Fetching exchange rates from 2024-03-15 to 2024-03-16 using the 'historical' endpoint
+2024-04-09 17:47:22,561 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-15. Fetching fresh data.
+2024-04-09 17:47:22,563 - exchange_rate_analyzer - ERROR - Failed to fetch data: 500 Internal Server Error
+2024-04-09 17:47:22,567 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,568 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-15 has been updated in both memory and file cache.
+2024-04-09 17:47:22,569 - exchange_rate_analyzer - INFO - Fetching exchange rates from 2024-03-15 to 2024-03-15 using the 'historical' endpoint
+2024-04-09 17:47:22,570 - exchange_rate_analyzer - INFO - Memory cache hit for key: AUD_NZD_2024-03-15
+2024-04-09 17:47:22,571 - exchange_rate_analyzer - INFO - Using cached data for 2024-03-15.
+2024-04-09 17:47:22,576 - exchange_rate_analyzer - INFO - Successfully fetched and processed exchange rates
+2024-04-09 17:47:22,582 - exchange_rate_analyzer - INFO - Starting data preprocessing
+2024-04-09 17:47:22,586 - exchange_rate_analyzer - INFO - Data preprocessing completed successfully
+2024-04-09 17:47:22,593 - exchange_rate_analyzer - INFO - Fetching exchange rates from 2024-03-15 to 2024-03-16 using the 'historical' endpoint
+2024-04-09 17:47:22,594 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-15. Fetching fresh data.
+2024-04-09 17:47:22,597 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,598 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-15 has been updated in both memory and file cache.
+2024-04-09 17:47:22,598 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-16. Fetching fresh data.
+2024-04-09 17:47:22,601 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,602 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-16 has been updated in both memory and file cache.
+2024-04-09 17:47:22,604 - exchange_rate_analyzer - INFO - Successfully fetched and processed exchange rates
+2024-04-09 17:47:22,634 - exchange_rate_analyzer - INFO - Fetching exchange rates from 2024-03-10 to 2024-03-12 using the 'historical' endpoint
+2024-04-09 17:47:22,635 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-10. Fetching fresh data.
+2024-04-09 17:47:22,643 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,644 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-10 has been updated in both memory and file cache.
+2024-04-09 17:47:22,646 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-11. Fetching fresh data.
+2024-04-09 17:47:22,648 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,649 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-11 has been updated in both memory and file cache.
+2024-04-09 17:47:22,650 - exchange_rate_analyzer - INFO - Cache miss for 2024-03-12. Fetching fresh data.
+2024-04-09 17:47:22,651 - exchange_rate_analyzer - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:47:22,652 - exchange_rate_analyzer - INFO - Data for key: AUD_NZD_2024-03-12 has been updated in both memory and file cache.
+2024-04-09 17:47:22,654 - exchange_rate_analyzer - INFO - Successfully fetched and processed exchange rates

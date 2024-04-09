@@ -1,0 +1,109 @@
+2024-04-09 17:46:00,886 - __main__ - INFO - Cache file not found in the 'cache' folder. Initializing an empty cache.
+2024-04-09 17:46:00,888 - __main__ - INFO - Fetching exchange rates from 2024-03-10 to 2024-04-09
+2024-04-09 17:46:00,888 - __main__ - INFO - Fetching exchange rates from 2024-03-10 to 2024-04-09 using the 'historical' endpoint
+2024-04-09 17:46:00,890 - __main__ - INFO - Cache miss for 2024-03-10. Fetching fresh data.
+2024-04-09 17:46:01,313 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:01,322 - __main__ - INFO - Data for key: AUD_NZD_2024-03-10 has been updated in both memory and file cache.
+2024-04-09 17:46:01,323 - __main__ - INFO - Cache miss for 2024-03-11. Fetching fresh data.
+2024-04-09 17:46:01,887 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:01,888 - __main__ - INFO - Data for key: AUD_NZD_2024-03-11 has been updated in both memory and file cache.
+2024-04-09 17:46:01,890 - __main__ - INFO - Cache miss for 2024-03-12. Fetching fresh data.
+2024-04-09 17:46:02,448 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:02,449 - __main__ - INFO - Data for key: AUD_NZD_2024-03-12 has been updated in both memory and file cache.
+2024-04-09 17:46:02,450 - __main__ - INFO - Cache miss for 2024-03-13. Fetching fresh data.
+2024-04-09 17:46:02,806 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:02,808 - __main__ - INFO - Data for key: AUD_NZD_2024-03-13 has been updated in both memory and file cache.
+2024-04-09 17:46:02,810 - __main__ - INFO - Cache miss for 2024-03-14. Fetching fresh data.
+2024-04-09 17:46:03,372 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:03,373 - __main__ - INFO - Data for key: AUD_NZD_2024-03-14 has been updated in both memory and file cache.
+2024-04-09 17:46:03,374 - __main__ - INFO - Cache miss for 2024-03-15. Fetching fresh data.
+2024-04-09 17:46:03,924 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:03,925 - __main__ - INFO - Data for key: AUD_NZD_2024-03-15 has been updated in both memory and file cache.
+2024-04-09 17:46:03,933 - __main__ - INFO - Cache miss for 2024-03-16. Fetching fresh data.
+2024-04-09 17:46:04,499 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:04,501 - __main__ - INFO - Data for key: AUD_NZD_2024-03-16 has been updated in both memory and file cache.
+2024-04-09 17:46:04,503 - __main__ - INFO - Cache miss for 2024-03-17. Fetching fresh data.
+2024-04-09 17:46:05,077 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:05,079 - __main__ - INFO - Data for key: AUD_NZD_2024-03-17 has been updated in both memory and file cache.
+2024-04-09 17:46:05,081 - __main__ - INFO - Cache miss for 2024-03-18. Fetching fresh data.
+2024-04-09 17:46:05,644 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:05,646 - __main__ - INFO - Data for key: AUD_NZD_2024-03-18 has been updated in both memory and file cache.
+2024-04-09 17:46:05,647 - __main__ - INFO - Cache miss for 2024-03-19. Fetching fresh data.
+2024-04-09 17:46:06,294 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:06,295 - __main__ - INFO - Data for key: AUD_NZD_2024-03-19 has been updated in both memory and file cache.
+2024-04-09 17:46:06,296 - __main__ - INFO - Cache miss for 2024-03-20. Fetching fresh data.
+2024-04-09 17:46:06,660 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:06,662 - __main__ - INFO - Data for key: AUD_NZD_2024-03-20 has been updated in both memory and file cache.
+2024-04-09 17:46:06,664 - __main__ - INFO - Cache miss for 2024-03-21. Fetching fresh data.
+2024-04-09 17:46:07,010 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:07,011 - __main__ - INFO - Data for key: AUD_NZD_2024-03-21 has been updated in both memory and file cache.
+2024-04-09 17:46:07,012 - __main__ - INFO - Cache miss for 2024-03-22. Fetching fresh data.
+2024-04-09 17:46:07,586 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:07,587 - __main__ - INFO - Data for key: AUD_NZD_2024-03-22 has been updated in both memory and file cache.
+2024-04-09 17:46:07,588 - __main__ - INFO - Cache miss for 2024-03-23. Fetching fresh data.
+2024-04-09 17:46:08,138 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:08,139 - __main__ - INFO - Data for key: AUD_NZD_2024-03-23 has been updated in both memory and file cache.
+2024-04-09 17:46:08,140 - __main__ - INFO - Cache miss for 2024-03-24. Fetching fresh data.
+2024-04-09 17:46:08,710 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:08,712 - __main__ - INFO - Data for key: AUD_NZD_2024-03-24 has been updated in both memory and file cache.
+2024-04-09 17:46:08,714 - __main__ - INFO - Cache miss for 2024-03-25. Fetching fresh data.
+2024-04-09 17:46:09,282 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:09,283 - __main__ - INFO - Data for key: AUD_NZD_2024-03-25 has been updated in both memory and file cache.
+2024-04-09 17:46:09,285 - __main__ - INFO - Cache miss for 2024-03-26. Fetching fresh data.
+2024-04-09 17:46:09,835 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:09,837 - __main__ - INFO - Data for key: AUD_NZD_2024-03-26 has been updated in both memory and file cache.
+2024-04-09 17:46:09,838 - __main__ - INFO - Cache miss for 2024-03-27. Fetching fresh data.
+2024-04-09 17:46:10,180 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:10,181 - __main__ - INFO - Data for key: AUD_NZD_2024-03-27 has been updated in both memory and file cache.
+2024-04-09 17:46:10,182 - __main__ - INFO - Cache miss for 2024-03-28. Fetching fresh data.
+2024-04-09 17:46:10,737 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:10,739 - __main__ - INFO - Data for key: AUD_NZD_2024-03-28 has been updated in both memory and file cache.
+2024-04-09 17:46:10,741 - __main__ - INFO - Cache miss for 2024-03-29. Fetching fresh data.
+2024-04-09 17:46:11,101 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:11,101 - __main__ - INFO - Data for key: AUD_NZD_2024-03-29 has been updated in both memory and file cache.
+2024-04-09 17:46:11,102 - __main__ - INFO - Cache miss for 2024-03-30. Fetching fresh data.
+2024-04-09 17:46:11,714 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:11,716 - __main__ - INFO - Data for key: AUD_NZD_2024-03-30 has been updated in both memory and file cache.
+2024-04-09 17:46:11,717 - __main__ - INFO - Cache miss for 2024-03-31. Fetching fresh data.
+2024-04-09 17:46:12,092 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:12,093 - __main__ - INFO - Data for key: AUD_NZD_2024-03-31 has been updated in both memory and file cache.
+2024-04-09 17:46:12,095 - __main__ - INFO - Cache miss for 2024-04-01. Fetching fresh data.
+2024-04-09 17:46:12,645 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:12,646 - __main__ - INFO - Data for key: AUD_NZD_2024-04-01 has been updated in both memory and file cache.
+2024-04-09 17:46:12,646 - __main__ - INFO - Cache miss for 2024-04-02. Fetching fresh data.
+2024-04-09 17:46:13,035 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:13,051 - __main__ - INFO - Data for key: AUD_NZD_2024-04-02 has been updated in both memory and file cache.
+2024-04-09 17:46:13,053 - __main__ - INFO - Cache miss for 2024-04-03. Fetching fresh data.
+2024-04-09 17:46:13,452 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:13,453 - __main__ - INFO - Data for key: AUD_NZD_2024-04-03 has been updated in both memory and file cache.
+2024-04-09 17:46:13,454 - __main__ - INFO - Cache miss for 2024-04-04. Fetching fresh data.
+2024-04-09 17:46:13,903 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:13,905 - __main__ - INFO - Data for key: AUD_NZD_2024-04-04 has been updated in both memory and file cache.
+2024-04-09 17:46:13,908 - __main__ - INFO - Cache miss for 2024-04-05. Fetching fresh data.
+2024-04-09 17:46:14,283 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:14,291 - __main__ - INFO - Data for key: AUD_NZD_2024-04-05 has been updated in both memory and file cache.
+2024-04-09 17:46:14,293 - __main__ - INFO - Cache miss for 2024-04-06. Fetching fresh data.
+2024-04-09 17:46:14,690 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:14,692 - __main__ - INFO - Data for key: AUD_NZD_2024-04-06 has been updated in both memory and file cache.
+2024-04-09 17:46:14,693 - __main__ - INFO - Cache miss for 2024-04-07. Fetching fresh data.
+2024-04-09 17:46:15,268 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:15,270 - __main__ - INFO - Data for key: AUD_NZD_2024-04-07 has been updated in both memory and file cache.
+2024-04-09 17:46:15,271 - __main__ - INFO - Cache miss for 2024-04-08. Fetching fresh data.
+2024-04-09 17:46:15,635 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:15,636 - __main__ - INFO - Data for key: AUD_NZD_2024-04-08 has been updated in both memory and file cache.
+2024-04-09 17:46:15,637 - __main__ - INFO - Cache miss for 2024-04-09. Fetching fresh data.
+2024-04-09 17:46:15,985 - __main__ - INFO - Cache file has been updated with the latest data in the 'cache' folder.
+2024-04-09 17:46:15,986 - __main__ - INFO - Data for key: AUD_NZD_2024-04-09 has been updated in both memory and file cache.
+2024-04-09 17:46:15,991 - __main__ - INFO - Successfully fetched and processed exchange rates
+2024-04-09 17:46:15,995 - __main__ - INFO - Preprocessing the fetched data
+2024-04-09 17:46:15,996 - __main__ - INFO - Starting data preprocessing
+2024-04-09 17:46:16,000 - __main__ - INFO - Data preprocessing completed successfully
+2024-04-09 17:46:16,001 - __main__ - INFO - Analyzing the preprocessed data
+2024-04-09 17:46:16,002 - __main__ - INFO - Starting data analysis
+2024-04-09 17:46:16,007 - __main__ - INFO - Date with highest volatility observed on: 2024-03-23
+2024-04-09 17:46:16,010 - __main__ - INFO - The overall trend in the exchange rate is increasing
+2024-04-09 17:46:18,515 - __main__ - INFO - Chart saved successfully in exchange_rate_chart_AUD_to_NZD_2024-04-09_17-46-16.png.
+2024-04-09 17:46:18,572 - __main__ - INFO - Data analysis and enhanced visualization completed successfully
+2024-04-09 17:46:18,575 - __main__ - INFO - Date with highest volatility observed on: 2024-03-23
+2024-04-09 17:46:18,581 - __main__ - INFO - The overall trend in the exchange rate is increasing
+2024-04-09 17:46:18,591 - __main__ - INFO - Insights generated and saved successfully in exchange_rate_insights_AUD_to_NZD_2024-04-09_17-46-18.txt.
