@@ -9,7 +9,22 @@ The ExchangeRateAnalyzer connects to an external exchange rates API to fetch his
 After fetching the data, the application performs several preprocessing steps to ensure data quality and consistency. This includes filling in any missing dates in the historical data range and applying forward filling for missing exchange rate values to maintain data continuity.
 
 ## Caching Mechanism
-To optimize performance and reduce unnecessary API calls, ExchangeRateAnalyzer implements a caching mechanism. Once the data for a specific date range is fetched, it's stored locally. Subsequent requests for the same date range utilize the cached data instead of making another API call.
+To optimize performance and reduce unnecessary API calls, ExchangeRateAnalyzer implements a dual caching mechanism, comprising both in-memory and file-based caches. This approach ensures efficient data retrieval while accommodating different operational scenarios and requirements.
+
+### In-memory Cache:
+#### Purpose 
+Provides fast access to recently accessed data by storing it directly in the application's memory.
+#### Rationale 
+In-memory caching is extremely fast and is ideal for data that is accessed frequently within short time frames. However, it is volatile and limited by the application's memory space, making it less suitable for long-term data storage or large datasets.
+### File-based Cache:
+#### Purpose
+Complements the in-memory cache by persisting data to disk, ensuring data availability across application restarts and longer periods.
+#### Rationale
+File-based caching provides a more durable storage solution, making it suitable for less frequently accessed data or data that needs to be retained over time. While access times are slower compared to in-memory caching, this approach offers greater capacity and persistence.
+### Combined Benefits:
+The dual caching mechanism leverages the speed of in-memory caching for frequently accessed, time-sensitive data, while utilizing file-based caching for durability and extended storage. This hybrid approach allows ExchangeRateAnalyzer to maintain optimal performance and efficiency by intelligently caching and retrieving data based on access patterns and data persistence requirements.
+
+By implementing both caching strategies, ExchangeRateAnalyzer ensures that data is quickly accessible when needed, while also minimizing redundant external API calls, thus conservatively using external resources and reducing potential costs associated with API usage.
 
 ## Error Handling
 The application includes robust error handling to manage potential issues such as API connectivity problems, invalid responses, or data processing errors. These errors are logged with appropriate error messages to assist in troubleshooting.
