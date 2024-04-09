@@ -143,3 +143,4 @@ docker run -it --rm exchange-rate-analyzer
 * Logs: The application logs its operations, which can be found in the attached app.log file.
 * Insights: After analyzing the exchange rates, insights are generated and saved in the insights.txt file.
 * Charts: Visualization of the exchange rate trends is available in the exchange_rate_chart.png file.
+A couple of trial runs were done and the results can be found in the logs, insights and charts directories. Also, you will find the cached data for the runs in the cache directory for the run of the past 30 days of exchange rates from 9th or March 2024 till 9th of April. 
