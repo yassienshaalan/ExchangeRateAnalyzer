@@ -38,10 +38,9 @@ The application analyzes the preprocessed exchange rate data to extract valuable
 ## Logging
 Logging is an integral part of ExchangeRateAnalyzer, providing visibility into the application's operation and aiding in debugging. The application logs key events, information messages, warnings, and errors along with their timestamps.
 
-## Correctness
-The application's correctness is ensured through comprehensive unit tests that cover a wide range of scenarios, including edge cases. By simulating various conditions such as API failures, data inconsistencies, and caching behaviors, we validate the accuracy and reliability of the ExchangeRateAnalyzer.
-
 ## Test Coverage
+The application's correctness is ensured through comprehensive unit tests that cover a wide range of scenarios, including edge cases. By simulating various conditions such as API failures, data inconsistencies, and caching behaviors, we validate the accuracy and reliability of the ExchangeRateAnalyzer. 
+
 In the test suite for ExchangeRateAnalyzer, we have devised five specific test cases to ensure the application's robustness and reliability across various scenarios. 
 Below is a brief overview of each test case and its purpose:
 * Fetch Exchange Rates Test: Ensures accurate retrieval of exchange rate data for specified date ranges.
